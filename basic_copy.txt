@@ -1,0 +1,7 @@
+||=========== INFO ===========||
+Choise of sort: all
+Len of array: 5 elemnts
+||=========== INFO ===========||
+
+Sorted mass: 
+1 2 3 4 5
